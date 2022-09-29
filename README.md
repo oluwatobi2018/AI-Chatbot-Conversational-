@@ -29,10 +29,6 @@ This guide helps you build and run the **Conversational AI Chat Bot** Reference 
 
 Upon completing the steps in this guide, you will be ready to integrate services to build your own complete solution.
 
-### Block Diagram
-
-![Block Diagram](docs/diagram.png)
-
 ### Prerequisites
 
 The following items are required to build the `Conversational AI Chat Bot`. You will need additional hardware and software when you are ready to build your own solution.
